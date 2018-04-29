@@ -40,6 +40,10 @@ p, span {
   font-family: "Roboto", Arial, serif;
 }
 
+li [
+color: #727272;
+]
+
 span {
   font-size: 18px;
   color: rgba(114, 114, 114, 0.8);
